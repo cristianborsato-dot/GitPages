@@ -13,7 +13,8 @@ Esta pagina apenas incorpora o Web App publico do Google Apps Script da conta pe
 
 - Apps Script oficial: `1jZDK-Y7WEr4mxstK5bVyELmfI6K_q_B5zFQPG1wLhs9UJuI7snz5OAsi`
 - Deployment oficial: `AKfycbzxRHbnyzXPJtKDejthGoMEd9upnpoKdTOnuno0w2-Y1to3r0CHl5BrzAonOyvrwCHj`
-- URL incorporada: `https://script.google.com/macros/s/AKfycbzxRHbnyzXPJtKDejthGoMEd9upnpoKdTOnuno0w2-Y1to3r0CHl5BrzAonOyvrwCHj/exec?embed=1`
+- URL incorporada no GitHub Pages: `https://script.google.com/macros/s/AKfycbzxRHbnyzXPJtKDejthGoMEd9upnpoKdTOnuno0w2-Y1to3r0CHl5BrzAonOyvrwCHj/exec`
+- URL para Google Sites sem cabecalho do app: `https://script.google.com/macros/s/AKfycbzxRHbnyzXPJtKDejthGoMEd9upnpoKdTOnuno0w2-Y1to3r0CHl5BrzAonOyvrwCHj/exec?embed=1`
 
 ## GitHub Pages
 
